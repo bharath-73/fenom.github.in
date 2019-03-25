@@ -1,0 +1,14 @@
+.bg{
+	background-image: url("Redmi Note 5 Pro1769.jpg");
+	background-size: cover;
+}
+
+#h1{
+	color: #546;
+	font-size: 80px;
+	text-align: center;
+}
+#img{
+	width: 50px;
+	height: 25px;
+}
